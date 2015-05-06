@@ -1,6 +1,6 @@
 # appveyor-node
 
-> Boilerplate `appveyor.yml` file for running Node.js tests on [AppVeyor](http://www.appveyor.com)
+> Boilerplate [`appveyor.yml`](http://www.appveyor.com/docs/appveyor-yml) file for running Node.js tests on [AppVeyor](http://www.appveyor.com)
 
 Because it's so much harder than it should be...
 
