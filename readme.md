@@ -4,7 +4,6 @@
 
 Because it's so much harder than it should be...
 
-
 ## Usage
 
 - Go to the AppVeyor website and [add the repo](https://ci.appveyor.com/projects/new) you want to test.
@@ -12,10 +11,10 @@ Because it's so much harder than it should be...
 - Fetch the `appveyor.yml` file directly:
 
 	```
-	$ curl -fsSLO https://github.com/sindresorhus/appveyor-node/raw/master/appveyor.yml
+	$ curl -fsSLO https://github.com/sindresorhus/appveyor-node/raw/main/appveyor.yml
 	```
 
-	Or [download it](https://github.com/sindresorhus/appveyor-node/raw/master/appveyor.yml) manually. *(Right-click and choose "Save link as...")*
+	Or [download it](https://github.com/sindresorhus/appveyor-node/raw/main/appveyor.yml) manually. *(Right-click and choose "Save link as...")*
 
 - Add the badge to your readme. You can get it here:
 
@@ -26,7 +25,6 @@ Because it's so much harder than it should be...
 	*Replace `{user}` and `{repo}` with your GitHub username and repo.*
 
 - Commit and push.
-
 
 ## License
 
