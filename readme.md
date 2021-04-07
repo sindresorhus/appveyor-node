@@ -1,3 +1,7 @@
+Unmaintained. Just use GitHub Actions. It is better in every way.
+
+---
+
 # appveyor-node
 
 > Boilerplate [`appveyor.yml`](http://www.appveyor.com/docs/appveyor-yml) file for running Node.js tests on [AppVeyor](http://www.appveyor.com)
